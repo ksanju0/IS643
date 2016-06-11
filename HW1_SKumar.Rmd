@@ -1,0 +1,30 @@
+---
+title: "Week1_Kumar"
+author: "sanjivek"
+date: "June 10, 2016"
+output: html_document
+---
+
+#Scenario Design Analysis for www.udemy.com
+##1. Identify a Recommender site
+####Udemy.com is an On demand courses for people who are willing to learn professional or interest based courses, when you visit the site they recommend you based on what you have bought or visited before.
+
+##2. Answer the three scenario design questions for this web site
+
+###1 -- Who are your target users?
+####Target Users are people or students willing to learn a professional course or interest based course without being subscribed to sites like Lynda.com or Pluralsite.com. This site's USP is theri instructor who publish their courses, they are mostly practisioners rather than academedians and courses are skill based with real examples to solve their day to day issues
+
+###2 -- What are their key goals?
+####Udemy.com's main goal is to get as much user as possible buying their courses, so as a promotional they generally give away few courses every now and then and get the people interested in their product. They also try getting to know their interest and inclinations towards specific subjects. This helps them to push the new products and identify right instructors around hot topics
+
+
+###3 -- How can you help them accomplish their goals?
+####User can help them by buying their courses, giving feedback for their products and developing new products
+
+##3. Reverse Engineering of the site
+
+####Cookies, Sessions, tracking browsers, campaign for Pay Per Click or through social media, buying pattern, subscribing as new users and feedback help the site to recognize the user pattern and interest and present the recommendations accordingly
+
+##4. Recommendations for improving recommender capabilities
+
+####They bring lot of new content and to get the users excited about it they do promotions as free subscriptions for few days or limited users, This makes the recommendation convoluted as most of the freebies are added by the people without giving any serious thought about it and recommending the user based on this statistics would be wrong recommendations. To improve it the key behavior should be tracked which the bounce rate and stickyness to teh content, if the user is really inclined to any content they will go through the course and spend more than 30 minutes on the course as most of the course length is around 1 to 8 hours. As I have experienced that they recommend many courses which I have just enrolled because of my previous behaviour or adding them to my account irrespective of the fact that I have never gone through that even once.
